@@ -1,11 +1,32 @@
-## Cześć, jestem Bartek 👋
+# Hi, I'm Bartek
 
-Zajmuję się IT, automatyzacją procesów i integracją systemów. W Pythonie rozwijam własne narzędzia, które pomagają ograniczać powtarzalną pracę i rozwiązywać konkretne problemy.
+I'm an IT Manager with 10 years of hands-on experience supporting production systems, integrating business applications, and automating business processes.
 
-Obecnie skupiam się na Pythonie, AI Automation Engineering i budowaniu agentów wykorzystujących lokalne modele LLM.
+I enjoy building practical solutions that eliminate repetitive work, improve reliability, and make complex systems easier to maintain.
 
-Pracuję między innymi z FastAPI, Pydantic, Pydantic AI, Dockerem i Linuxem. Rozwijam również własne środowisko homelab, w którym testuję nowe rozwiązania.
+I'm currently expanding my focus into **Python development, AI automation, and backend engineering**, combining my production IT experience with modern software development practices.
 
-Na GitHubie publikuję projekty, eksperymenty oraz narzędzia, które tworzę podczas nauki i pracy.
+## Technical Skills
 
-**Aktualnie:** rozwijam umiejętności w Pythonie, automatyzacji i integracji systemów AI.
+- **Backend:** Python, FastAPI, Pydantic, REST APIs, SQL
+- **AI Automation:** Pydantic AI, Ollama, local LLMs, structured outputs, tool calling
+- **Infrastructure:** Docker, Linux, Proxmox, GitHub Actions, CI/CD
+- **Integrations:** Business systems, APIs, data processing, workflow automation
+
+## Featured Projects
+
+### [local-agent](https://github.com/raveniqe/local-agent)
+
+A self-hosted AI application built with FastAPI, Pydantic AI, and Ollama.
+
+Currently focused on reliable structured data extraction, validation, automated testing, and deployment through CI/CD.
+
+### [AI Message Router](https://github.com/raveniqe/wskz-ai-message-router)
+
+A proof-of-concept application demonstrating AI-powered message routing, tool calling, API integration, and local LLM orchestration.
+
+## Current Focus
+
+I'm focused on building reliable automation tools, improving my software architecture skills, and exploring how AI agents can solve real-world integration and business process problems.
+
+I'm particularly interested in opportunities involving **AI automation, backend development, and systems integration**.
